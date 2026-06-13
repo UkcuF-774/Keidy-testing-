@@ -1,0 +1,23 @@
+.footerBtn{
+    background-color: var(--color-accent-2);    
+    
+    font-family: var(--primary-font);    
+    font-size: medium;    
+    color: white;
+
+    border: solid;
+    border-color: var(--color-accent-2);
+    border-radius: .4rem;  
+
+    margin-top: .5rem;
+}
+
+.footerA{
+    color: var(--color-accent-1);
+}
+
+.footerContainer{
+    font-family: var(--primary-font);
+    
+    margin-left: .5rem;
+}
